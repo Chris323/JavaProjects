@@ -1,0 +1,12 @@
+.grid{
+	-fx-font-size: 200%;
+}	
+
+.answerLabel {
+	-fx-background-color: #56CEE3
+}
+
+.answerBox{
+	-fx-alignment: center;
+}
+
