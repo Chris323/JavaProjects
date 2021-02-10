@@ -1,0 +1,51 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+.fence{
+	-fx-background-color: #ABA8A8;
+	-fx-border-style: solid;
+	-fx-border-width: 1px;
+}
+
+.pasture{
+	-fx-background-color: #46AF3B;
+	-fx-border-style: solid;
+	-fx-border-width: 1px;
+}
+
+.start{
+	-fx-background-color: #2A44AE;
+	-fx-color: red;
+	-fx-border-style: solid;
+	-fx-border-width: 1px;
+}
+
+.pane{
+	-fx-padding: 1px;
+}
+
+.exit{
+	-fx-background-color: #2A44AE;
+	-fx-color: red;
+	-fx-border-style: solid;
+	-fx-border-width: 1px;
+}
+
+.person{
+	-fx-background-color: #D01A1A;
+	-fx-border-style: solid;
+	-fx-border-width: 1px;
+	
+}
+
+.cow{
+	-fx-background-color: #FFFFFF;
+	-fx-border-style: solid;
+	-fx-border-width: 1px;
+}
+
+.dirt{
+	-fx-background-color: #825518;
+	-fx-border-style: solid;
+	-fx-border-width: 1px;
+
+}
